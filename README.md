@@ -79,7 +79,7 @@ git clone https://github.com/WafaeBouajaja/codealpha_tasks.git
 cd codealpha_tasks
 
 # Navigate to a specific project
-cd translation-app  # or QAF or VidDetection
+cd translation-app 
 
 # Install dependencies
 pip install -r requirements.txt
